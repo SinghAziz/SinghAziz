@@ -69,7 +69,7 @@ Reduced processing time by **20%**.
 ### 🌍 Find Me Online
 - **LinkedIn:** https://www.linkedin.com/in/har-aziz-singh/  
 - **Email:** singhharaziz@gmail.com  
-- **GitHub:** Your current profile  
+- **GitHub:** https://github.com/SinghAziz
 
 ---
 
